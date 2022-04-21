@@ -1,0 +1,4 @@
+open-connector
+source-s3
+destination-s3
+--extra-index-url=https://pypi.joffreybvn.be

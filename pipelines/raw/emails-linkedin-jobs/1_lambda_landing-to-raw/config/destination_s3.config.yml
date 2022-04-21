@@ -1,0 +1,5 @@
+bucket_name: opendatalake-raw
+key_prefix: ''
+dataset_name: emails
+table_name: linkedin_jobs
+output_format: email
